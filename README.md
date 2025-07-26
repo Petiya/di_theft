@@ -31,6 +31,7 @@ Add Required Items
 Add these to your qb-core/shared/items.lua:
 
 lua
+
 ["weapon_wrench"] = { name = "weapon_wrench", label = "Wrench", weight = 1000, type = "weapon", ... },
 ["drill"] = { name = "drill", label = "Drill", weight = 5000, ... },
 ["ac_broken"] = { name = "ac_broken", label = "Broken AC Unit", weight = 2000, ... },
